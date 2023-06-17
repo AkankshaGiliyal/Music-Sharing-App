@@ -1,0 +1,32 @@
+{% extends 'music_nation/base.html' %}
+
+{%block title%}
+{%endblock%}
+{%block content%}
+
+  <div class="container">
+    <h2 style="margin:30px;">Add new song here.</h2>
+    <form method="POST" enctype="multipart/form-data">{# this field is important for file upload #}
+      {% csrf_token %}
+      {{ form.song_name.label_tag }}
+      {{ form.song_name }}
+       <br>
+      {{ form.song_file.label_tag }}
+      {{ form.song_file }}
+        <br>
+      {{ form.privacy_level.label_tag }}
+      {{ form.privacy_level }}
+        <br>
+      
+      {{ form.allowed_emails.label_tag }}
+      {{ form.allowed_emails }}
+      <p>Enter a valid registered email only for protected files or else most people will not be able to access the music
+         
+         <br>
+      
+      <button type="submit" class="save btn btn-default">Save</button>
+    </form>
+  </div>
+
+{%endblock%}
+
