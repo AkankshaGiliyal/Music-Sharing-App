@@ -6,15 +6,22 @@ Features of the web app include:<br>
  . Adding of Albums and Songs Inside The Album<br>
  . Based On The Privacy Level Chosen While Adding New Songs, Albums Are Displayed On The Dashboard <br>
  . Albums with Public Songs Are Displayed To Everyonne, Private To Only The User Who Uploaded it, And Protected Is Meant Only For Those With Authorized Access. <br>
+ Preview: <br>
+ .Dashboard with only public and certain protected songs being displayed: <br>
 ![Screenshot (34)](https://github.com/AkankshaGiliyal/Music-Sharing-App/assets/108074183/8e262bb1-29ee-4b38-9148-bb14c8c60b7a)
+.To Add A New Album:
 
 ![Screenshot (35)](https://github.com/AkankshaGiliyal/Music-Sharing-App/assets/108074183/62a337b3-479c-4b5b-8b5d-2d9f46eedf77)
+.To view all the songs available to your account, includes private,protected and public albums
 
 ![Screenshot (36)](https://github.com/AkankshaGiliyal/Music-Sharing-App/assets/108074183/bca8e922-5de0-435f-a58d-ab9197856636)
+.To Add A New Song
 
 ![Screenshot (37)](https://github.com/AkankshaGiliyal/Music-Sharing-App/assets/108074183/157d5e9a-4f5f-4cd3-8943-0747132e89db)
+.Sign-Up Page
 
 ![Screenshot (38)](https://github.com/AkankshaGiliyal/Music-Sharing-App/assets/108074183/c3e1957d-d6d6-4ce0-96d3-4d56cadefa75)
+.Login-Page
 
 ![Screenshot (39)](https://github.com/AkankshaGiliyal/Music-Sharing-App/assets/108074183/fe741798-1ba0-425c-bb2c-9f11274fffbe)
  
